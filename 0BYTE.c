@@ -1,4 +1,4 @@
-//I HAD MY FILES IN A FOLDER CALLED SUBFOLDER. IT WORKED FOR ME BUT I CAN'T UPLOAD A FOLDER. 
+
 
 #include <stdio.h>
 #include <sys/types.h>
